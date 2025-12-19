@@ -1,1 +1,5 @@
-This example is obsolete. To specify a text editor's output value type, use a Numeric mask, and set the _Value Type_ mask setting. See the following topic for more information: [How to: Enter numeric values](https://docs.devexpress.com/WindowsForms/120741/controls-and-libraries/editors-and-simple-controls/examples/how-to-enter-numeric-values).
+⛔ DEPRECATED. This example was deprecated. You can find an updated version of the example here:
+
+- [How to: Enter numeric values](https://docs.devexpress.com/WindowsForms/120741/controls-and-libraries/editors-and-simple-controls/examples/how-to-enter-numeric-values).
+
+The current repository will not be updated in the future.
